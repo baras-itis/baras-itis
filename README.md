@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+### My stack: 
+- TypeScript
+- Nodejs
+- Tailwindcss
+- React
+- React Router framework
+
+### At the moment I'm studying following things:
+- React Native
+- C
+- C#
+- Flutter
+- Nextjs
 <!--
 **baras-itis/baras-itis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
