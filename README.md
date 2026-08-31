@@ -6,7 +6,7 @@
 ---
 # About Me
 
-<div style = "background-color:red; border-radius:2rem">
+<div style = "border-radius:2rem; border:1px solid black;">
   Sup👋
   I am frontend developer,
 </div>
