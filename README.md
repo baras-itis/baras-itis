@@ -1,4 +1,7 @@
-
+---
+"Name & Surname": "Iskander Baras"
+"University": "Russian Presidential Academy of National Economy and Public Administration"
+---
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/xeenoss) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uglypiercedkid) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baras.iskander@gmail.com) 
 
@@ -9,13 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=baras-itis&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=baras-itis&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=baras-itis&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=baras-itis&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=baras-itis&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
