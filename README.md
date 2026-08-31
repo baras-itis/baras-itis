@@ -1,5 +1,7 @@
 ---
-"title": "About me"
+"name": "Iskander Baras"
+"Languages": "TypeScript", "C#"
+
 ---
 
 # 
