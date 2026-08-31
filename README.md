@@ -3,9 +3,9 @@
 "Languages": "TypeScript, C#"
 "Stack": "React, TypeScript, React Router Framework"
 ---
-
-# About Me
 ---
+# About Me
+
 Sup👋
 I am frontend developer,
 <br />
