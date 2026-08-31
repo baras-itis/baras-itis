@@ -1,6 +1,8 @@
 ---
 "Name & Surname": "Iskander Baras"
 "University": "Russian Presidential Academy of National Economy and Public Administration"
+"Job": "Actively Looking"
+"Experience": "1 year"
 ---
 
 ## 🌐 Socials:
