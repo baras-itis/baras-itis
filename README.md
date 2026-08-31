@@ -6,6 +6,8 @@
 ---
 # About Me
 
-Sup👋
-I am frontend developer,
-<br />
+<div style = "background-color:red; border-radius:2rem">
+  Sup👋
+  I am frontend developer,
+</div>
+
