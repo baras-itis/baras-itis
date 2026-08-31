@@ -1,6 +1,6 @@
 ---
 "name": "Iskander Baras"
-"Languages": "TypeScript", "C#"
+"Languages": "TypeScript, C#"
 
 ---
 
