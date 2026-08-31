@@ -6,8 +6,7 @@
 ---
 # About Me
 
-<div style = "border-radius:2rem; border:1px solid black;">
-  Sup👋
-  I am frontend developer,
-</div>
+Sup👋
+I am frontend developer,
+
 
